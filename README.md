@@ -1,64 +1,64 @@
- **Plan de Entrenamiento para Incrementar Kilometraje**
+**Plan de Entrenamiento para Incrementar Kilometraje**
 
 **Inicio: 31 de enero**  
 **Objetivo: Aumentar progresivamente la distancia hasta correr más de 10 km**  
-**Frecuencia: 3 días por semana**  
+**Frecuencia: 3 días por semana (lunes a sábado, sin correr los domingos)**  
 
 ---
 
 ### **Semana 1 (31 de enero - 6 de febrero)**
 - **Viernes 31 de enero:** 5 km a ritmo cómodo  
-- **Domingo 2 de febrero:** 4 km a ritmo moderado  
-- **Martes 4 de febrero:** 6 km a ritmo cómodo  
+- **Lunes 5 de febrero:** 4 km a ritmo moderado  
+- **Miércoles 7 de febrero:** 6 km a ritmo cómodo  
 
 ---
 
-### **Semana 2 (7 - 13 de febrero)**
-- **Viernes:** 5 km a ritmo cómodo  
-- **Domingo:** 6 km a ritmo moderado  
+### **Semana 2 (8 - 14 de febrero)**
+- **Martes:** 5 km a ritmo cómodo  
+- **Jueves:** 6 km a ritmo moderado  
+- **Sábado:** 7 km a ritmo cómodo  
+
+---
+
+### **Semana 3 (15 - 21 de febrero)**
+- **Martes:** 6 km a ritmo cómodo  
+- **Jueves:** 5 km con 2 km a ritmo más rápido  
+- **Sábado:** 8 km a ritmo cómodo  
+
+---
+
+### **Semana 4 (22 - 28 de febrero) - Semana de recuperación**
+- **Martes:** 5 km a ritmo cómodo  
+- **Jueves:** 4 km suave  
+- **Sábado:** 6 km a ritmo fácil  
+
+---
+
+### **Semana 5 (29 de febrero - 6 de marzo)**
+- **Martes:** 6 km a ritmo cómodo  
+- **Jueves:** 5 km con 3 km a ritmo más rápido  
+- **Sábado:** 9 km a ritmo cómodo  
+
+---
+
+### **Semana 6 (7 - 13 de marzo)**
 - **Martes:** 7 km a ritmo cómodo  
+- **Jueves:** 5 km con cambios de ritmo  
+- **Sábado:** 10 km a ritmo cómodo  
 
 ---
 
-### **Semana 3 (14 - 20 de febrero)**
-- **Viernes:** 6 km a ritmo cómodo  
-- **Domingo:** 5 km con 2 km a ritmo más rápido  
+### **Semana 7 (14 - 20 de marzo)**
 - **Martes:** 8 km a ritmo cómodo  
+- **Jueves:** 6 km a ritmo moderado  
+- **Sábado:** 12 km a ritmo cómodo  
 
 ---
 
-### **Semana 4 (21 - 27 de febrero) - Semana de recuperación**
-- **Viernes:** 5 km a ritmo cómodo  
-- **Domingo:** 4 km suave  
-- **Martes:** 6 km a ritmo fácil  
-
----
-
-### **Semana 5 (28 de febrero - 5 de marzo)**
-- **Viernes:** 6 km a ritmo cómodo  
-- **Domingo:** 5 km con 3 km a ritmo más rápido  
-- **Martes:** 9 km a ritmo cómodo  
-
----
-
-### **Semana 6 (6 - 12 de marzo)**
-- **Viernes:** 7 km a ritmo cómodo  
-- **Domingo:** 5 km con cambios de ritmo  
-- **Martes:** 10 km a ritmo cómodo  
-
----
-
-### **Semana 7 (13 - 19 de marzo)**
-- **Viernes:** 8 km a ritmo cómodo  
-- **Domingo:** 6 km a ritmo moderado  
-- **Martes:** 12 km a ritmo cómodo  
-
----
-
-### **Semana 8 (20 - 26 de marzo) - Semana de recuperación**
-- **Viernes:** 5 km a ritmo cómodo  
-- **Domingo:** 4 km suave  
-- **Martes:** 8 km a ritmo cómodo  
+### **Semana 8 (21 - 27 de marzo) - Semana de recuperación**
+- **Martes:** 5 km a ritmo cómodo  
+- **Jueves:** 4 km suave  
+- **Sábado:** 8 km a ritmo cómodo  
 
 ---
 
@@ -69,3 +69,4 @@
 - **Estiramientos y fuerza:** Recomendado al menos 2 veces por semana.  
 
 Si sientes molestias, ajusta la distancia o los días de descanso. ¡Éxito con tu entrenamiento!
+
