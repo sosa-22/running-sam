@@ -5,11 +5,6 @@
 **Frecuencia:** 3 días por semana (descanso de dos días después de cada entrenamiento)  
 
 ---
-- **Type of change**:
-  - [ ] Bug fix
-  - [ ] New feature
-  - [ ] Breaking change
-  - [ ] Documentation update
 ## 📅 Mes 1 (Abril) - Adaptación y consolidación
 - [ ] **Jueves 3:** 6 km a ritmo cómodo  
 - [ ] **Domingo 6:** 7 km a ritmo cómodo  
