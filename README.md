@@ -1,10 +1,11 @@
-# Plan de Entrenamiento para 21 km
+# ✅ Plan de Entrenamiento para 21 km
 
-**Inicio:** 3 de abril de 2025  
-**Objetivo:** Completar 21 km el 29 de septiembre de 2025  
-**Frecuencia:** 3 días por semana (descanso de dos días después de cada entrenamiento)  
+📅 **Inicio:** 3 de abril de 2025  
+🏁 **Carrera:** 29 de septiembre de 2025  
+📆 **Frecuencia:** 3 días por semana (descanso de dos días después de cada entrenamiento)  
 
 ---
+
 ## 📅 Mes 1 (Abril) - Adaptación y consolidación
 - [ ] **Jueves 3:** 6 km a ritmo cómodo  
 - [ ] **Domingo 6:** 7 km a ritmo cómodo  
@@ -60,7 +61,7 @@
 
 ---
 
-## 📅 Mes 5 (Agosto - Septiembre) - Afinamiento y preparación final
+## 📅 Mes 5 (Agosto) - Afinamiento y preparación final
 - [ ] **Martes 29:** 18 km a ritmo cómodo  
 - [ ] **Viernes 1:** 10 km con 6 km a ritmo moderado  
 - [ ] **Lunes 4:** 21 km a ritmo objetivo  
@@ -72,7 +73,20 @@
 - [ ] **Viernes 22:** 6 km con 3 km a ritmo moderado  
 - [ ] **Lunes 25:** 5 km suave  
 - [ ] **Jueves 28:** 3 km suave  
-- [ ] **Domingo 29:** 🏁 **CARRERA DE 21 KM** 🎉  
+
+---
+
+## 📅 Mes 6 (Septiembre) - Puesta a punto y tapering
+- [ ] **Martes 2:** 14 km a ritmo cómodo  
+- [ ] **Viernes 5:** 8 km con 4 km a ritmo moderado  
+- [ ] **Lunes 8:** 12 km a ritmo cómodo  
+- [ ] **Jueves 11:** 6 km con cambios de ritmo  
+- [ ] **Domingo 14:** 10 km a ritmo moderado  
+- [ ] **Miércoles 17:** 8 km suave  
+- [ ] **Sábado 20:** 6 km suave  
+- [ ] **Martes 23:** 5 km suave  
+- [ ] **Jueves 25:** 3 km suave  
+- [ ] **Domingo 28:** 🏁 **CARRERA DE 21 KM** 🎉  
 
 ---
 
@@ -83,4 +97,5 @@
 - **Días de descanso:** Importantes para evitar lesiones y mejorar la recuperación.  
 - **Estiramientos y fuerza:** Recomendado al menos 2 veces por semana.  
 
-Si sientes molestias, ajusta la distancia o los días de descanso. ¡Mucho éxito en tu entrenamiento! 🚀  
+⚠️ Si sientes molestias, ajusta la distancia o los días de descanso.  
+🚀 ¡Mucho éxito en tu entrenamiento!  
