@@ -8,7 +8,7 @@
 
 ## 📅 Mes 1 (Abril) - Adaptación y consolidación
 - [x] **Jueves 3:** 6 km a ritmo cómodo  
-- [ ] **Domingo 6:** 7 km a ritmo cómodo  
+- [c] **Domingo 6:** 7 km a ritmo cómodo  
 - [ ] **Miércoles 9:** 5 km a ritmo moderado  
 - [ ] **Sábado 12:** 8 km a ritmo cómodo  
 - [ ] **Martes 15:** 6 km con 2 km a ritmo moderado  
