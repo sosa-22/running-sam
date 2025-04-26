@@ -11,9 +11,9 @@
 - [x] Domingo 6: 7 km a ritmo cómodo  
 - [x] Miércoles 9: 5 km a ritmo moderado  
 - [x] Sábado 12: 8 km a ritmo cómodo  
-- [x] Martes 15: 6 km con 2 km a ritmo moderado  
-- [x] Viernes 18: 9 km a ritmo cómodo  
-- [x] Lunes 21: 7 km a ritmo moderado  
+- [x] Miercoles 16: 6 km con 2 km a ritmo moderado  
+- [x] Sabado 19: 9 km a ritmo cómodo  
+- [x] Martes 22: 7 km a ritmo moderado  
 - [x] Sábado 26: 10 km a ritmo cómodo (ajustado)  
 - [ ] Martes 29: 6 km con cambios de ritmo (ajustado)
 
