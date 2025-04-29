@@ -15,7 +15,7 @@
 - [x] Sabado 19: 9 km a ritmo cómodo  
 - [x] Martes 22: 7 km a ritmo moderado  
 - [x] Sábado 26: 10 km a ritmo cómodo
-- [ ] Martes 29: 6 km con cambios de ritmo
+- [x] Martes 29: 6 km con cambios de ritmo
 
 ---
 
