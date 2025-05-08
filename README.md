@@ -21,7 +21,7 @@
 
 ## Mes 2 (Mayo) - Incremento progresivo
 - [x] Lunes 5: 8 km con 3 km a ritmo moderado  
-- [ ] Jueves 8: 12 km a ritmo cómodo  
+- [x] Jueves 8: 12 km a ritmo cómodo  
 - [ ] Domingo 11: 7 km con cambios de ritmo  
 - [ ] Miércoles 14: 10 km a ritmo moderado  
 - [ ] Sábado 17: 14 km a ritmo cómodo  
