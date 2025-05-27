@@ -27,7 +27,7 @@
 - [x] Sábado 17: 14 km a ritmo cómodo  
 - [x] Martes 20: 8 km a ritmo moderado  
 - [x] Viernes 23: 12 km a ritmo cómodo  
-- [ ] Lunes 26: 15 km a ritmo cómodo  
+- [x] Lunes 26: 15 km a ritmo cómodo  
 - [ ] Jueves 29: 8 km con cambios de ritmo
 
 ---
