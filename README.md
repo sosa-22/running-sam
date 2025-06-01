@@ -33,7 +33,7 @@
 ---
 
 ## Mes 3 (Junio) - Consolidación de largas distancias
-- [ ] Domingo 1: 12 km a ritmo cómodo  
+- [x] Domingo 1: 12 km a ritmo cómodo  
 - [ ] Miércoles 4: 9 km a ritmo moderado  
 - [ ] Sábado 7: 16 km a ritmo cómodo  
 - [ ] Martes 10: 10 km con 4 km a ritmo moderado  
