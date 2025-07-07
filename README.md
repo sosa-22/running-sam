@@ -54,9 +54,9 @@
 ---
 
 ## Semana 1 (6 al 12 de julio)
-- [ ] **Mié 2:** 7 (6:44/km) 
-- [ ] **Vie 4:** 5 (5:49/km)  
-- [ ] **Dom 6:** 10 km a ritmo cómodo  
+- [x] **Mié 2:** 7 (6:44/km) 
+- [x] **Vie 4:** 5 (5:49/km)  
+- [x] **Dom 6:** 10 km a ritmo cómodo  
 - [ ] **Mié 9:** 6 km con 3 km a ritmo moderado (5:45-6:00/km)  
 - [ ] **Vie 11:** 5 km suave + 4 aceleraciones de 100 m  
 
