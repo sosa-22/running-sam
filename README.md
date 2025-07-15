@@ -57,11 +57,11 @@
 - [x] **Mié 2:** 7 (6:44/km) 
 - [x] **Vie 4:** 5 (5:49/km)  
 - [x] **Dom 6:** 10 km a ritmo cómodo  
-- [ ] **Mié 9:** 6 km con 3 km a ritmo moderado (5:45-6:00/km)  
-- [ ] **Vie 11:** 5 km suave + 4 aceleraciones de 100 m  
+- [X] **Mié 9:** 6 km con 3 km a ritmo moderado (5:45-6:00/km)  
+- [X] **Vie 11:** 5 km suave + 4 aceleraciones de 100 m  
 
 ## Semana 2 (13 al 19 de julio)
-- [ ] **Dom 13:** 12 km a ritmo cómodo  
+- [X] **Dom 13:** 12 km a ritmo cómodo  
 - [ ] **Mié 16:** 7 km progresivos (últimos 2 km más rápidos)  
 - [ ] **Vie 18:** 6 km suaves + 4 rectas  
 
