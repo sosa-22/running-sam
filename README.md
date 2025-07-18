@@ -1,8 +1,12 @@
-# Plan de Entrenamiento para 21 km (Calendario Ajustado)
+# Plan de Entrenamiento para 21 km 
 
-**Inicio:** 3 de abril de 2025  
-**Carrera:** 29 de septiembre de 2025  
-**Frecuencia:** 3 días por semana (descanso de dos días después de cada entrenamiento)
+**Inicio:** 3 de abril de 2025 
+# Plan de Entrenamiento Media Maratón  
+**Fecha de carrera: 2 de noviembre de 2025**  
+**Días de entrenamiento: Domingo – Miércoles – Viernes**  
+**Objetivo: Terminar fuerte y cómodo, idealmente a un ritmo entre 5:00 y 5:30 min/km**
+
+---
 
 ---
 
@@ -44,15 +48,6 @@
 - [x] Miércoles 25: 18 km a ritmo cómodo  
 - [x] Sábado 28: 8 km con cambios de ritmo
 
----
-
-# Plan de Entrenamiento Media Maratón  
-**Fecha de carrera: 28 de septiembre de 2025**  
-**Días de entrenamiento: Domingo - Miércoles - Viernes**  
-**Objetivo: Terminar fuerte y cómodo, idealmente a un ritmo entre 5:30 - 6:00/km**
-
----
-
 ## Semana 1 (6 al 12 de julio)
 - [x] **Mié 2:** 7 (6:44/km) 
 - [x] **Vie 4:** 5 (5:49/km)  
@@ -62,58 +57,85 @@
 
 ## Semana 2 (13 al 19 de julio)
 - [X] **Dom 13:** 12 km a ritmo cómodo  
-- [ ] **Mié 16:** 7 km progresivos (últimos 2 km más rápidos)  
-- [ ] **Vie 18:** 6 km suaves + 4 rectas  
+- [X] **Mié 16:** 7 km progresivos (últimos 2 km más rápidos)  
+- [ ] **Vie 18:** 6 km suaves + 4 rectas
 
-## Semana 3 (20 al 26 de julio)
+## Semana 3 (20 – 26 jul)
 - [ ] **Dom 20:** 14 km a ritmo cómodo  
-- [ ] **Mié 23:** 8 km con cambios de ritmo (4x3 min rápidos / 2 min suaves)  
+- [ ] **Mié 23:** 8 km con cambios de ritmo (4 × 3′ rápidos / 2′ suaves)  
 - [ ] **Vie 25:** 6 km suaves  
 
-## Semana 4 (27 julio al 2 de agosto)
+## Semana 4 (27 jul – 2 ago)
 - [ ] **Dom 27:** 10 km suaves (semana de descarga)  
 - [ ] **Mié 30:** 6 km con 3 km a ritmo moderado  
 - [ ] **Vie 1:** 5 km suaves + movilidad  
 
-## Semana 5 (3 al 9 de agosto)
+## Semana 5 (3 – 9 ago)
 - [ ] **Dom 3:** 15 km a ritmo cómodo  
-- [ ] **Mié 6:** 8 km con cambios de ritmo (5x3 min rápidos)  
+- [ ] **Mié 6:** 8 km con cambios de ritmo (5 × 3′ rápidos)  
 - [ ] **Vie 8:** 6 km suaves  
 
-## Semana 6 (10 al 16 de agosto)
+## Semana 6 (10 – 16 ago)
 - [ ] **Dom 10:** 12 km a ritmo medio  
 - [ ] **Mié 13:** 7 km con 4 km a ritmo de carrera  
 - [ ] **Vie 15:** 6 km suaves + 4 rectas  
 
-## Semana 7 (17 al 23 de agosto)
+## Semana 7 (17 – 23 ago)
 - [ ] **Dom 17:** 16 km a ritmo cómodo  
 - [ ] **Mié 20:** 9 km progresivos  
 - [ ] **Vie 22:** 6 km suaves  
 
-## Semana 8 (24 al 30 de agosto)
-- [ ] **Dom 24:** 13 km con últimos 3 km a ritmo medio  
-- [ ] **Mié 27:** 8 km con 5x2 min rápidos / 2 min trote  
+## Semana 8 (24 – 30 ago)
+- [ ] **Dom 24:** 13 km (últimos 3 km a ritmo medio)  
+- [ ] **Mié 27:** 8 km (5 × 2′ rápidos / 2′ trote)  
 - [ ] **Vie 29:** 5 km suaves  
 
-## Semana 9 (31 ago al 6 de sept)
+## Semana 9 (31 ago – 6 sep)
 - [ ] **Dom 31:** 18 km a ritmo cómodo  
-- [ ] **Mié 3:** 7 km con 4 km a ritmo objetivo (5:30-5:40/km)  
+- [ ] **Mié 3:** 7 km con 4 km a ritmo objetivo (5:30 – 5:40 /km)  
 - [ ] **Vie 5:** 6 km suaves  
 
-## Semana 10 (7 al 13 de sept)
-- [ ] **Dom 7:** 15 km con últimos 4 km a ritmo medio  
+## Semana 10 (7 – 13 sep)
+- [ ] **Dom 7:** 15 km (últimos 4 km a ritmo medio)  
 - [ ] **Mié 10:** 6 km con 3 km rápidos  
 - [ ] **Vie 12:** 5 km suaves  
 
-## Semana 11 (14 al 20 de sept)
-- [ ] **Dom 14:** 12 km suaves (semana de descarga)  
-- [ ] **Mié 17:** 6 km con 4 aceleraciones  
-- [ ] **Vie 19:** 5 km suaves  
+## Semana 11 (14 – 20 sep)
+- [ ] **Dom 14:** 14 km a ritmo cómodo  
+- [ ] **Mié 17:** 8 km con 3 km a ritmo medio  
+- [ ] **Vie 19:** 6 km suaves  
 
-## Semana 12 (21 al 28 de sept)
-- [ ] **Dom 21:** 8 km suaves  
-- [ ] **Mié 24:** 5 km suaves con 3 rectas  
-- [ ] **Vie 26:** 3 km trote muy suave  
+## Semana 12 (21 – 27 sep)
+- [ ] **Dom 21:** 20 km fondo largo (5:50–6:00 /km)  
+- [ ] **Mié 24:** 9 km (5 km a ritmo objetivo)  
+- [ ] **Vie 26:** 6 km suaves + 4 rectas  
+
+## Semana 13 (28 sep – 4 oct) — Descarga
+- [ ] **Dom 28:** 14 km suaves  
+- [ ] **Mié 1 oct:** 6 km suaves + strides  
+- [ ] **Vie 3:** 7 km progresivos (último km ≈ 5:15 /km)  
+
+## Semana 14 (5 – 11 oct)
+- [ ] **Dom 5:** 18 km (últimos 3 km a ritmo medio)  
+- [ ] **Mié 8:** 10 km (4 × 4′ rápidos / 2′ suaves)  
+- [ ] **Vie 10:** 6 km suaves  
+
+## Semana 15 (12 – 18 oct) — Pico
+- [ ] **Dom 12:** 22 km: primeros 17 km ≈ 5:50 /km, últimos 5 km ≈ 5:30 /km  
+- [ ] **Mié 15:** 8 km con 4 km a ritmo objetivo  
+- [ ] **Vie 17:** 6 km suaves  
+
+## Semana 16 (19 – 25 oct) — Inicio taper
+- [ ] **Dom 19:** 16 km a ritmo cómodo  
+- [ ] **Mié 22:** 7 km (3 × 1 km a ≈ 5:10 /km)  
+- [ ] **Vie 24:** 5 km suaves  
+
+## Semana 17 (26 oct – 1 nov) — Taper final
+- [ ] **Dom 26:** 12 km suaves  
+- [ ] **Mié 29:** 6 km con 3 km a ritmo objetivo  
+- [ ] **Vie 31:** 4 km trote muy suave + 3 rectas  
 
 ## Carrera
-- [ ] **Dom 28:** 🎉 **Media Maratón - 21.1 km** 🎉  
+- [ ] **Dom 2 nov:** 🎉 **Media Maratón – 21.1 km** 🎉  
+
+ 
