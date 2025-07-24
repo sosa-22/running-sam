@@ -58,11 +58,11 @@
 ## Semana 2 (13 al 19 de julio)
 - [X] **Dom 13:** 12 km a ritmo cómodo  
 - [X] **Mié 16:** 7 km progresivos (últimos 2 km más rápidos)  
-- [ ] **Vie 18:** 6 km suaves + 4 rectas
+- [X] **Vie 18:** 6 km suaves + 4 rectas
 
 ## Semana 3 (20 – 26 jul)
-- [ ] **Dom 20:** 14 km a ritmo cómodo  
-- [ ] **Mié 23:** 8 km con cambios de ritmo (4 × 3′ rápidos / 2′ suaves)  
+- [X] **Dom 20:** 14 km a ritmo cómodo  
+- [X] **Mié 23:** 8 km con cambios de ritmo (4 × 3′ rápidos / 2′ suaves)  
 - [ ] **Vie 25:** 6 km suaves  
 
 ## Semana 4 (27 jul – 2 ago)
