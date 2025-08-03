@@ -63,7 +63,7 @@
 ## Semana 3 (20 – 26 jul)
 - [X] **Dom 20:** 14 km a ritmo cómodo  
 - [X] **Mié 23:** 8 km con cambios de ritmo (4 × 3′ rápidos / 2′ suaves)  
-- [ ] **Vie 25:** 6 km suaves  
+- [X] **Vie 25:** 6 km suaves  
 
 ## Semana 4 (27 jul – 2 ago)
 - [ ] **Dom 27:** 10 km suaves (semana de descarga)  
