@@ -71,7 +71,7 @@
 - [ ] **Vie 1:** 5 km suaves + movilidad  
 
 ## Semana 5 (3 – 9 ago)
-- [ ] **Dom 3:** 15 km a ritmo cómodo  
+- [X] **Dom 3:** 12 km a ritmo cómodo  
 - [ ] **Mié 6:** 8 km con cambios de ritmo (5 × 3′ rápidos)  
 - [ ] **Vie 8:** 6 km suaves  
 
