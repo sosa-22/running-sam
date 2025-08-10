@@ -72,11 +72,11 @@
 
 ## Semana 5 (3 – 9 ago)
 - [X] **Dom 3:** 12 km a ritmo cómodo  
-- [ ] **Mié 6:** 8 km con cambios de ritmo (5 × 3′ rápidos)  
-- [ ] **Vie 8:** 6 km suaves  
+- [X] **Mié 6:** 8 km con cambios de ritmo (5 × 3′ rápidos)  
+- [X] **Vie 8:** 6 km suaves  
 
 ## Semana 6 (10 – 16 ago)
-- [ ] **Dom 10:** 12 km a ritmo medio  
+- [X] **Dom 10:** 12 km a ritmo medio  
 - [ ] **Mié 13:** 7 km con 4 km a ritmo de carrera  
 - [ ] **Vie 15:** 6 km suaves + 4 rectas  
 
