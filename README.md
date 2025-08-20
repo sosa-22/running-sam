@@ -78,11 +78,11 @@
 ## Semana 6 (10 – 16 ago)
 - [X] **Dom 10:** 12 km a ritmo medio  
 - [X] **Mié 13:** 7 km con 4 km a ritmo de carrera  
-- [ ] **Vie 15:** 6 km suaves + 4 rectas  
+- [X] **Vie 15:** 6 km suaves + 4 rectas  
 
 ## Semana 7 (17 – 23 ago)
-- [ ] **Dom 17:** 16 km a ritmo cómodo  
-- [ ] **Mié 20:** 9 km progresivos  
+- [X] **Dom 17:** 16 km a ritmo cómodo  
+- [X] **Mié 20:** 9 km progresivos  
 - [ ] **Vie 22:** 6 km suaves  
 
 ## Semana 8 (24 – 30 ago)
