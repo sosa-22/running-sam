@@ -83,15 +83,15 @@
 ## Semana 7 (17 – 23 ago)
 - [X] **Dom 17:** 16 km a ritmo cómodo  
 - [X] **Mié 20:** 9 km progresivos  
-- [ ] **Vie 22:** 6 km suaves  
+- [X] **Vie 22:** 6 km suaves  
 
 ## Semana 8 (24 – 30 ago)
-- [ ] **Dom 24:** 13 km (últimos 3 km a ritmo medio)  
+- [X] **Dom 24:** 13 km (últimos 3 km a ritmo medio)  
 - [ ] **Mié 27:** 8 km (5 × 2′ rápidos / 2′ trote)  
 - [ ] **Vie 29:** 5 km suaves  
 
 ## Semana 9 (31 ago – 6 sep)
-- [ ] **Dom 31:** 18 km a ritmo cómodo  
+- [X] **Dom 31:** 14 km a ritmo cómodo  
 - [ ] **Mié 3:** 7 km con 4 km a ritmo objetivo (5:30 – 5:40 /km)  
 - [ ] **Vie 5:** 6 km suaves  
 
