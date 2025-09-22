@@ -92,8 +92,8 @@
 
 ## Semana 9 (31 ago – 6 sep)
 - [X] **Dom 31:** 14 km a ritmo cómodo  
-- [ ] **Mié 3:** 7 km con 4 km a ritmo objetivo (5:30 – 5:40 /km)  
-- [ ] **Vie 5:** 6 km suaves  
+- [X] **Mié 3:** 7 km con 4 km a ritmo objetivo (5:30 – 5:40 /km)  
+- [X] **Vie 5:** 6 km suaves  
 
 ## Semana 10 (7 – 13 sep)
 - [ ] **Dom 7:** 15 km (últimos 4 km a ritmo medio)  
@@ -101,12 +101,12 @@
 - [ ] **Vie 12:** 5 km suaves  
 
 ## Semana 11 (14 – 20 sep)
-- [ ] **Dom 14:** 14 km a ritmo cómodo  
-- [ ] **Mié 17:** 8 km con 3 km a ritmo medio  
-- [ ] **Vie 19:** 6 km suaves  
+- [x] **Dom 14:** 14 km a ritmo cómodo  
+- [x] **Mié 17:** 8 km con 3 km a ritmo medio  
+- [x] **Vie 19:** 6 km suaves  
 
 ## Semana 12 (21 – 27 sep)
-- [ ] **Dom 21:** 20 km fondo largo (5:50–6:00 /km)  
+- [X] **Dom 21:** 20 km fondo largo (5:50–6:00 /km)  
 - [ ] **Mié 24:** 9 km (5 km a ritmo objetivo)  
 - [ ] **Vie 26:** 6 km suaves + 4 rectas  
 
