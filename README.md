@@ -1,53 +1,131 @@
-# 🏁 Plan Post-Media Maratón — Recuperación y Reacondicionamiento
-**Carrera completada:** Domingo 2 de noviembre de 2025  
-**Tiempo:** 1:57:xx (ritmo 5:34/km)  
-**Zapatillas:** Nike Pegasus 41  
-**Objetivo:** Recuperar, mantener base aeróbica y preparar nuevo ciclo.
+# 🏃‍♂️ Plan Media Maratón – 15 de junio de 2026
+
+**Inicio:** Viernes 2 de enero de 2026  
+**Días de entrenamiento:** Viernes – Domingo – Miércoles  
+**Frecuencia:** 3 días por semana  
+**Objetivo:** Mejorar tiempo (meta 5:00–5:15/km)
 
 ---
 
-## 🗓 Semana 1 (3–9 nov) — Recuperación activa
-**Objetivo:** regenerar músculos y articulaciones.
+## 🔵 FASE 1 – Base Aeróbica (Semanas 1–6)
 
-- 🧘‍♂️ **Lunes:** descanso total  
-- 🏃‍♂️ **Miércoles:** 4–5 km suaves (ritmo 6:30–7:00/km)  
-- 🚶 **Viernes:** caminata o trote muy suave 30 min  
-- 🧘 **Domingo:** descanso o estiramientos ligeros  
+### Semana 1 (2–4 enero)
+- [ ] **Vie 2:** 5 km suaves  
+- [ ] **Dom 4:** 8 km ritmo cómodo  
+- [ ] **Mié 7:** 6 km suaves + 4 rectas  
 
----
+### Semana 2
+- [ ] **Vie:** 6 km suaves  
+- [ ] **Dom:** 10 km ritmo cómodo  
+- [ ] **Mié:** 7 km suaves  
 
-## 🗓 Semana 2 (10–16 nov) — Volver a la rutina ligera
-**Objetivo:** recuperar la frecuencia de entrenamiento.
+### Semana 3
+- [ ] **Vie:** 6 km suaves + 4 rectas  
+- [ ] **Dom:** 12 km ritmo cómodo  
+- [ ] **Mié:** 7 km controlados  
 
-- 🏃‍♂️ **Miércoles:** 6 km a ritmo suave (6:00–6:30/km)  
-- 🏃‍♂️ **Viernes:** 8 km cómodos  
-- 🏃‍♂️ **Domingo:** 10 km tranquilos  
+### Semana 4
+- [ ] **Vie:** 7 km suaves  
+- [ ] **Dom:** 14 km ritmo cómodo  
+- [ ] **Mié:** 8 km suaves  
 
----
+### Semana 5 (descarga)
+- [ ] **Vie:** 5 km suaves  
+- [ ] **Dom:** 10 km suaves  
+- [ ] **Mié:** 6 km suaves  
 
-## 🗓 Semana 3 (17–23 nov) — Reacondicionamiento
-**Objetivo:** recuperar fuerza y base aeróbica.
-
-- 🏃‍♂️ **Miércoles:** 6 km con 4×200 m algo más rápidos  
-- 🏃‍♂️ **Viernes:** 8 km a ritmo medio (5:45–6:00/km)  
-- 🏃‍♂️ **Domingo:** 12 km suaves  
-
----
-
-## 🗓 Semana 4 (24–30 nov) — Base para nuevo ciclo
-**Objetivo:** preparar cuerpo para futuros retos.
-
-- 🏃‍♂️ **Miércoles:** 7 km con cambios de ritmo suaves  
-- 🏃‍♂️ **Viernes:** 9 km controlados  
-- 🏃‍♂️ **Domingo:** 14 km tranquilos  
+### Semana 6
+- [ ] **Vie:** 7 km suaves + 4 rectas  
+- [ ] **Dom:** 15 km ritmo cómodo  
+- [ ] **Mié:** 8 km controlados  
 
 ---
 
-## ✅ Próximo paso
-Después de estas 4 semanas podés elegir:
+## 🟢 FASE 2 – Construcción (Semanas 7–12)
 
-- 🕐 Iniciar **nuevo ciclo de media maratón** para mejorar tu marca  
-- 🏃‍♂️ Comenzar un **plan de maratón completa**  
-- 🧘 Tomar una semana extra de descanso activo antes del nuevo bloque
+### Semana 7
+- [ ] **Vie:** 6 km suaves  
+- [ ] **Dom:** 16 km ritmo cómodo  
+- [ ] **Mié:** 8 km (3 km a 5:45/km)  
 
-¿Querés que te prepare un plan de mejora a partir del **1 de diciembre de 2025**?
+### Semana 8
+- [ ] **Vie:** 7 km suaves  
+- [ ] **Dom:** 17 km  
+- [ ] **Mié:** 9 km progresivos  
+
+### Semana 9
+- [ ] **Vie:** 6 km suaves + 4 rectas  
+- [ ] **Dom:** 18 km  
+- [ ] **Mié:** 8 km (4 × 3′ rápidos / 2′ suaves)  
+
+### Semana 10 (descarga)
+- [ ] **Vie:** 7 km suaves  
+- [ ] **Dom:** 16 km  
+- [ ] **Mié:** 9 km (4 km a 5:30–5:40/km)  
+
+### Semana 11
+- [ ] **Vie:** 8 km suaves  
+- [ ] **Dom:** 19 km  
+- [ ] **Mié:** 10 km progresivos  
+
+### Semana 12
+- [ ] **Vie:** 6 km suaves  
+- [ ] **Dom:** 20 km  
+- [ ] **Mié:** 9 km (5 × 3′ rápidos)  
+
+---
+
+## 🟠 FASE 3 – Ritmo de Carrera (Semanas 13–18)
+
+### Semana 13
+- [ ] **Vie:** 8 km suaves  
+- [ ] **Dom:** 18 km (últimos 4 km a 5:20/km)  
+- [ ] **Mié:** 10 km (3 × 2 km a 5:10/km)  
+
+### Semana 14
+- [ ] **Vie:** 7 km suaves  
+- [ ] **Dom:** 20 km  
+- [ ] **Mié:** 9 km (6 × 800 m a 5:00/km)  
+
+### Semana 15
+- [ ] **Vie:** 8 km suaves  
+- [ ] **Dom:** 21 km simulación  
+- [ ] **Mié:** 10 km controlados  
+
+### Semana 16 (descarga)
+- [ ] **Vie:** 6 km suaves  
+- [ ] **Dom:** 16 km  
+- [ ] **Mié:** 8 km suaves  
+
+### Semana 17
+- [ ] **Vie:** 8 km suaves  
+- [ ] **Dom:** 18 km (6 km a ritmo objetivo)  
+- [ ] **Mié:** 9 km (5 × 1 km a 5:00/km)  
+
+### Semana 18
+- [ ] **Vie:** 7 km suaves  
+- [ ] **Dom:** 20 km  
+- [ ] **Mié:** 8 km progresivos  
+
+---
+
+## 🔴 FASE 4 – Taper (Semanas 19–22)
+
+### Semana 19
+- [ ] **Vie:** 6 km suaves  
+- [ ] **Dom:** 16 km  
+- [ ] **Mié:** 8 km (3 km a ritmo objetivo)  
+
+### Semana 20
+- [ ] **Vie:** 6 km suaves  
+- [ ] **Dom:** 12 km  
+- [ ] **Mié:** 6 km + 4 rectas  
+
+### Semana 21
+- [ ] **Vie:** 5 km suaves  
+- [ ] **Dom:** 8 km muy suaves  
+- [ ] **Mié:** 5 km suaves  
+
+### Semana 22 – CARRERA
+- [ ] **Vie:** 4 km suaves  
+- [ ] **Dom 15 junio:** 🏁 **MEDIA MARATÓN – 21.1 km** 🏁
