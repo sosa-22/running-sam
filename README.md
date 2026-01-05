@@ -10,8 +10,8 @@
 ## 🔵 FASE 1 – Base Aeróbica (Semanas 1–6)
 
 ### Semana 1 (2–4 enero)
-- [ ] **Vie 2:** 5 km suaves  
-- [ ] **Dom 4:** 8 km ritmo cómodo  
+- [X] **Vie 2:** 6 km suaves  
+- [X] **Dom 4:** 8 km ritmo cómodo  
 - [ ] **Mié 7:** 6 km suaves + 4 rectas  
 
 ### Semana 2
