@@ -12,11 +12,11 @@
 ### Semana 1 (2–4 enero)
 - [X] **Vie 2:** 6 km suaves  
 - [X] **Dom 4:** 8 km ritmo cómodo  
-- [ ] **Mié 7:** 6 km suaves + 4 rectas  
+- [X] **Mié 7:** 6 km suaves + 4 rectas  
 
 ### Semana 2
-- [ ] **Vie:** 6 km suaves  
-- [ ] **Dom:** 10 km ritmo cómodo  
+- [X] **Vie:** 6 km suaves  
+- [X] **Dom:** 10 km ritmo cómodo  
 - [ ] **Mié:** 7 km suaves  
 
 ### Semana 3
