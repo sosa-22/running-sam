@@ -30,9 +30,9 @@
 - [ ] **Mié:** 8 km suaves  
 
 ### Semana 5 (descarga)
-- [ ] **Vie:** 5 km suaves  
-- [ ] **Dom:** 10 km suaves  
-- [ ] **Mié:** 6 km suaves  
+- [X] **Vie:** 5 km suaves  
+- [X] **Dom:** 8km suaves  
+- [X] **Mié:** 6 km suaves  
 
 ### Semana 6
 - [ ] **Vie:** 7 km suaves + 4 rectas  
