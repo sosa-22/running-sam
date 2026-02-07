@@ -35,7 +35,7 @@
 - [X] **Mié:** 6 km suaves  
 
 ### Semana 6
-- [ ] **Vie:** 7 km suaves + 4 rectas  
+- [X] **Vie:** 7 km suaves + 4 rectas  
 - [ ] **Dom:** 15 km ritmo cómodo  
 - [ ] **Mié:** 8 km controlados  
 
