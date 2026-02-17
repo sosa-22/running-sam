@@ -36,17 +36,17 @@
 
 ### Semana 6
 - [X] **Vie:** 7 km suaves + 4 rectas  
-- [ ] **Dom:** 15 km ritmo cómodo  
-- [ ] **Mié:** 8 km controlados  
+- [X] **Dom:** 12 km ritmo cómodo  
+- [X] **Mié:** 8 km controlados  
 
 ---
 
 ## 🟢 FASE 2 – Construcción (Semanas 7–12)
 
 ### Semana 7
-- [ ] **Vie:** 6 km suaves  
-- [ ] **Dom:** 16 km ritmo cómodo  
-- [ ] **Mié:** 8 km (3 km a 5:45/km)  
+- [X] **Vie:** 6 km suaves  
+- [X] **Dom:** 14 km ritmo cómodo  
+- [ ] **Mier** 7 km (4 × 800 m a ritmo más rápido que carrera)
 
 ### Semana 8
 - [ ] **Vie:** 7 km suaves  
