@@ -49,12 +49,12 @@
 - [ ] **Mier** 7 km (4 × 800 m a ritmo más rápido que carrera)
 
 ### Semana 8
-- [ ] **Vie:** 7 km suaves  
-- [ ] **Dom:** 17 km  
-- [ ] **Mié:** 9 km progresivos  
+- [ ] **Vie:** 6 km suaves + 4 rectas
+- [ ] **Dom:** 8 km  controlados 5 - 5:20
+- [ ] **Mié:** 6 km (3 × 1 km a 4:30)
 
 ### Semana 9
-- [ ] **Vie:** 6 km suaves + 4 rectas  
+- [ ] **Vie:** 5 km suaves + 4 rectas  
 - [ ] **Dom:** 18 km  
 - [ ] **Mié:** 8 km (4 × 3′ rápidos / 2′ suaves)  
 
