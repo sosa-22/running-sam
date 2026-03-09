@@ -8,9 +8,9 @@ Días: Miércoles / Viernes / Domingo
 ## 🔹 SEMANAS 1–4 (Base + Umbral)
 
 ### Semana 1
-- [ ] Mié 4 Mar – 8 km (4×1 km @4:30–4:35, rec 2 min)
-- [ ] Vie 6 Mar – 7 km suaves + 4 rectas
-- [ ] Dom 8 Mar – 14 km (últimos 3 km @5:15)
+- [x] Mié 4 Mar – 8 km (4×1 km @4:30–4:35, rec 2 min)
+- [x] Vie 6 Mar – 7 km suaves + 4 rectas
+- [x] Dom 8 Mar – 14 km (últimos 3 km @5:15)
 
 ### Semana 2
 - [ ] Mié 11 Mar – 9 km (3×2 km @4:50–4:55, rec 2 min)
