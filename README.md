@@ -13,9 +13,9 @@ Días: Miércoles / Viernes / Domingo
 - [x] Dom 8 Mar – 14 km (últimos 3 km @5:15)
 
 ### Semana 2
-- [ ] Mié 11 Mar – 9 km (3×2 km @4:50–4:55, rec 2 min)
-- [ ] Vie 13 Mar – 7 km suaves
-- [ ] Dom 15 Mar – 15 km cómodos (Z2)
+- [X] Mié 11 Mar – 9 km (3×2 km @4:50–4:55, rec 2 min)
+- [X] Vie 13 Mar – 7 km suaves
+- [X] Dom 15 Mar – 15 km cómodos (Z2)
 
 ### Semana 3
 - [ ] Mié 18 Mar – 10 km (5 km continuos @5:05)
