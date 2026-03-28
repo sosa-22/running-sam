@@ -23,9 +23,9 @@ Días: Miércoles / Viernes / Domingo
 - [X] Dom 22 Mar – 16 km (últimos 4 km @5:10)
 
 ### Semana 4
-- [ ] Mié 25 Mar – 9 km (4×1.5 km @4:45–4:50)
-- [ ] Vie 27 Mar – 7 km suaves
-- [ ] Dom 29 Mar – 17 km progresivos (10 km suaves + 4 km @5:15 + 3 km @5:05)
+- [X] Mié 25 Mar – 9 km (4×1.5 km @4:45–4:50)
+- [X] Vie 27 Mar – 5 km suaves
+- [X] Dom 29 Mar – 17 km progresivos (10 km suaves + 4 km @5:15 + 3 km @5:05)
 
 ---
 
