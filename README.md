@@ -32,14 +32,13 @@ Días: Miércoles / Viernes / Domingo
 ## 🔹 SEMANAS 5–8 (Bloques Específicos Media)
 
 ### Semana 5
-- [ ] Mié 1 Abr – 10 km (3×3 km @5:00, rec 2 min)
-- [ ] Vie 3 Abr – 7 km suaves + 4 rectas
-- [ ] Dom 5 Abr – 16 km cómodos + gel km 8
+-
+- [X] Vie 3 Abr – 7 km suaves + 4 rectas
 
 ### Semana 6
-- [ ] Mié 8 Abr – 8 km (6 km @5:00 continuo)
-- [ ] Vie 10 Abr – 7 km suaves
-- [ ] Dom 12 Abr – 18 km (12 km suaves + 6 km @5:05)
+- [X] Mié 8 Abr – 8 km (4 km @5:00 continuo)
+- [X] Vie 10 Abr – 7 km suaves
+- [X] Dom 12 Abr – 12 km suaves
 
 ### Semana 7
 - [ ] Mié 15 Abr – 10 km (4×2 km @4:50)
