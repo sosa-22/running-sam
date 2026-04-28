@@ -46,9 +46,9 @@ Días: Miércoles / Viernes / Domingo
 - [X] Dom 19 Abr – 10 km cómodos
 
 ### Semana 8
-- [ ] Mié 22 Abr – 9 km (7 km @5:05 continuo)
-- [ ] Vie 24 Abr – 6 km suaves
-- [ ] Dom 26 Abr – 17 km (últimos 5 km @5:00)
+- [X] Mié 22 Abr – 9 km (7 km @5:05 continuo)
+- [X] Vie 24 Abr – 4 km suaves
+- [X] Dom 26 Abr – 18 km (últimos 5 km @5:00)
 
 ---
 
